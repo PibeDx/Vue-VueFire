@@ -1,0 +1,14 @@
+{
+  "name": "Vue-VueFire",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/pmm9rwrolm",
+  "main": "index.js",
+  "dependencies": {
+    "firebase": "4.9.1",
+    "vue": "2.5.2",
+    "vue-router": "3.0.1",
+    "vuefire": "1.4.5"
+  }
+}
